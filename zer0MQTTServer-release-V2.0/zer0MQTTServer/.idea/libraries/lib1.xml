@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/quartz-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/quartz-jobs-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/pahoMqtt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/mapdb-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/netty-all-5.0.0.Alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
